@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+
+library(XML)
+doc <- htmlParse("http://www.kaggle.com/users/1482/francois-guillem")
+
