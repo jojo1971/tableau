@@ -4,7 +4,7 @@ $(document).ready(function () {
 
 });
 function chargerTab(rep){
-    $.get('charger.php', function(rep){
+    $.get('index.php', function(rep){
         $('#ppm1').html(rep);
     });
 }
