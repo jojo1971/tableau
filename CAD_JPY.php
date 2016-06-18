@@ -1,11 +1,10 @@
 <?php
+require('class_charger.php');
 
-$CAD_JPY_m1 = file_get_contents('https://gridsightfeed.dailyfx.com/GSRemoteServlet?action=dashboard&symbol=AUD%2FUSD&lettersize=2000&callback=jQuery21007344517265996029_1465937155164&_=1465937157493');
-$CAD_JPY_m3 = file_get_contents('https://gridsightfeed.dailyfx.com/GSRemoteServlet?action=dashboard&symbol=AUD%2FUSD&lettersize=2000&callback=jQuery21007344517265996029_1465937155164&_=1465937157493');
-$CAD_JPY_m5 = file_get_contents('https://gridsightfeed.dailyfx.com/GSRemoteServlet?action=dashboard&symbol=AUD%2FUSD&lettersize=2000&callback=jQuery21007344517265996029_1465937155164&_=1465937157493');
-
-
-$CAD_JPY_m1 = explode('"' , $CAD_JPY_m1);
-$CAD_JPY_m3 = explode('"' , $CAD_JPY_m3);
-$CAD_JPY_m5 = explode('"' , $CAD_JPY_m5);
+remp('CAD_JPY','https://gridsightfeed.dailyfx.com/GSRemoteServlet?action=dashboard&symbol=CAD%2FJPY&lettersize=500&callback=jQuery2100021388782184894595_1466166807603&_=1466166808270',
+    'https://gridsightfeed.dailyfx.com/GSRemoteServlet?action=dashboard&symbol=CAD%2FJPY&lettersize=1000&callback=jQuery2100021388782184894595_1466166807603&_=1466166808360',
+    'https://gridsightfeed.dailyfx.com/GSRemoteServlet?action=dashboard&symbol=CAD%2FJPY&lettersize=2000&callback=jQuery2100021388782184894595_1466166807603&_=1466166808450',
+    'https://gridsightfeed.dailyfx.com/GSRemoteServlet?action=gix&symbol=CAD%2FJPY&lettersize=500&callback=jQuery2100021388782184894595_1466166807603&_=1466166807834',
+    'https://gridsightfeed.dailyfx.com/GSRemoteServlet?action=gix&symbol=CAD%2FJPY&lettersize=1000&callback=jQuery2100021388782184894595_1466166807603&_=1466166807942',
+'https://gridsightfeed.dailyfx.com/GSRemoteServlet?action=gix&symbol=CAD%2FJPY&lettersize=2000&callback=jQuery2100021388782184894595_1466166807603&_=1466166808062');
 ?>

@@ -48,7 +48,7 @@ $datas[] = array('price' =>$priceUp_AUD_JPY_m5, 'size' =>$sizeUp_AUD_JPY_m5, 'pr
 require('class.csv.php');
 CSV::export($datas,'Export Data');*/
 
-
+date_default_timezone_set('Europe/Luxembourg');
 
 ?>
 <!DOCTYPE>
