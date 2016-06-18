@@ -157,12 +157,13 @@ ${'sizeDown_' . $r . '_m5'} = substr(${'tab_' . $r . '_m5'}[20], 10, 2) . '%';
 </table>
 <?php
 }
-remp('CHF_JPY','https://gridsightfeed.dailyfx.com/GSRemoteServlet?action=dashboard&symbol=CHF%2FJPY&lettersize=500&callback=jQuery2100021388782184894595_1466166807603&_=1466166809230',
-    'https://gridsightfeed.dailyfx.com/GSRemoteServlet?action=dashboard&symbol=CHF%2FJPY&lettersize=1000&callback=jQuery2100021388782184894595_1466166807603&_=1466166809578',
-    'https://gridsightfeed.dailyfx.com/GSRemoteServlet?action=dashboard&symbol=CHF%2FJPY&lettersize=2000&callback=jQuery2100021388782184894595_1466166807603&_=1466166809638',
-    'https://gridsightfeed.dailyfx.com/GSRemoteServlet?action=gix&symbol=CHF%2FJPY&lettersize=500&callback=jQuery2100021388782184894595_1466166807603&_=1466166809694',
-    'https://gridsightfeed.dailyfx.com/GSRemoteServlet?action=gix&symbol=CHF%2FJPY&lettersize=1000&callback=jQuery2100021388782184894595_1466166807603&_=1466166809772',
-    'https://gridsightfeed.dailyfx.com/GSRemoteServlet?action=gix&symbol=CHF%2FJPY&lettersize=2000&callback=jQuery2100021388782184894595_1466166807603&_=1466166809826');
+remp('SPX500',
+    'https://gridsightfeed.dailyfx.com/GSRemoteServlet?action=dashboard&symbol=SPX500&lettersize=500&callback=jQuery21005046673302693072_1466269150447&_=1466269170319',
+    'https://gridsightfeed.dailyfx.com/GSRemoteServlet?action=dashboard&symbol=SPX500&lettersize=1000&callback=jQuery21005046673302693072_1466269150447&_=1466269170439',
+    'https://gridsightfeed.dailyfx.com/GSRemoteServlet?action=dashboard&symbol=SPX500&lettersize=2000&callback=jQuery21005046673302693072_1466269150447&_=1466269170571',
+    'https://gridsightfeed.dailyfx.com/GSRemoteServlet?action=gix&symbol=SPX500&lettersize=500&callback=jQuery21005046673302693072_1466269150447&_=1466269170315',
+    'https://gridsightfeed.dailyfx.com/GSRemoteServlet?action=gix&symbol=SPX500&lettersize=1000&callback=jQuery21005046673302693072_1466269150447&_=1466269170435',
+    'https://gridsightfeed.dailyfx.com/GSRemoteServlet?action=gix&symbol=SPX500&lettersize=2000&callback=jQuery21005046673302693072_1466269150447&_=1466269170567');
 
 ?>
 

@@ -2,9 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4e5b151-75e6-4038-9d23-e316dd96dd0d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AUD_JPY.php" afterPath="$PROJECT_DIR$/AUD_JPY.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/COPCOL.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GBP_JPY.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GBP_USD.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GER30.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NAS100.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NZD_CAD.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SPX500.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UKOil.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/US30.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/USD_JPY.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/USOil.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/XAU_USD.php" />
+      <change type="DELETED" beforePath="D:\Mes documents\informatique\tableau\GPB_JPY.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mes documents\informatique\tableau\GPB_USD.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AUD_USD.php" afterPath="$PROJECT_DIR$/AUD_USD.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CAD_JPY.php" afterPath="$PROJECT_DIR$/CAD_JPY.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CHF_JPY.php" afterPath="$PROJECT_DIR$/CHF_JPY.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EUR_AUD.php" afterPath="$PROJECT_DIR$/EUR_AUD.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EUR_CAD.php" afterPath="$PROJECT_DIR$/EUR_CAD.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EUR_CHF.php" afterPath="$PROJECT_DIR$/EUR_CHF.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EUR_GBP.php" afterPath="$PROJECT_DIR$/EUR_GBP.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EUR_JPY.php" afterPath="$PROJECT_DIR$/EUR_JPY.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EUR_USD.php" afterPath="$PROJECT_DIR$/EUR_USD.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NZD_USD.php" afterPath="$PROJECT_DIR$/NZD_USD.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/USD_CAD.php" afterPath="$PROJECT_DIR$/USD_CAD.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/USD_CHF.php" afterPath="$PROJECT_DIR$/USD_CHF.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="D:\Mes documents\informatique\tableau\GPB_CHF.php" afterPath="$PROJECT_DIR$/GBP_CHF.php" />
     </list>
     <ignored path="Jeann.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,93 +66,112 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="255">
-              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.6723164" vertical-offset="0" max-vertical-offset="708">
+              <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test01.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test01.php">
+      <file leaf-file-name="EUR_GBP.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EUR_GBP.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="100.0" vertical-offset="2617" max-vertical-offset="3332">
-              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+            <state vertical-scroll-proportion="-27.23077" vertical-offset="2080" max-vertical-offset="2975">
+              <caret line="164" column="169" selection-start-line="164" selection-start-column="169" selection-end-line="164" selection-end-column="169" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AUD_JPY.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AUD_JPY.php">
+      <file leaf-file-name="EUR_JPY.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EUR_JPY.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.52587414" vertical-offset="1137" max-vertical-offset="3009">
-              <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+            <state vertical-scroll-proportion="-25.423077" vertical-offset="2212" max-vertical-offset="2992">
+              <caret line="169" column="7" selection-start-line="169" selection-start-column="7" selection-end-line="169" selection-end-column="7" />
               <folding>
                 <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1466257600262" expanded="true" signature="2573:2640" placeholder="..." />
-                <marker date="1466257600262" expanded="true" signature="2787:2858" placeholder="..." />
-                <marker date="1466257600262" expanded="true" signature="3005:3075" placeholder="..." />
-                <marker date="1466257600262" expanded="true" signature="3225:3298" placeholder="..." />
-                <marker date="1466257600262" expanded="true" signature="3640:3717" placeholder="..." />
-                <marker date="1466257600262" expanded="true" signature="3861:3924" placeholder="..." />
-                <marker date="1466257600262" expanded="true" signature="4087:4145" placeholder="..." />
-                <marker date="1466257600262" expanded="true" signature="4308:4373" placeholder="..." />
-                <marker date="1466257600262" expanded="true" signature="4545:4605" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.php">
+      <file leaf-file-name="GBP_USD.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GBP_USD.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="43.153847" vertical-offset="1581" max-vertical-offset="3315">
-              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="176" selection-end-column="1" />
+            <state vertical-scroll-proportion="-16.26923" vertical-offset="2280" max-vertical-offset="2975">
+              <caret line="159" column="9" selection-start-line="159" selection-start-column="9" selection-end-line="159" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="class_charger.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/class_charger.php">
+      <file leaf-file-name="GBP_CHF.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GBP_CHF.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="3315">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-19.384615" vertical-offset="2199" max-vertical-offset="2992">
+              <caret line="159" column="9" selection-start-line="159" selection-start-column="9" selection-end-line="159" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AUD_USD.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AUD_USD.php">
+      <file leaf-file-name="GBP_JPY.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GBP_JPY.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="255">
-              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+            <state vertical-scroll-proportion="-18.076923" vertical-offset="2233" max-vertical-offset="2992">
+              <caret line="159" column="9" selection-start-line="159" selection-start-column="9" selection-end-line="159" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CAD_JPY.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CAD_JPY.php">
+      <file leaf-file-name="UKOil.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UKOil.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="255">
-              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-              <folding />
+            <state vertical-scroll-proportion="-16.115385" vertical-offset="2182" max-vertical-offset="2992">
+              <caret line="153" column="58" selection-start-line="153" selection-start-column="58" selection-end-line="153" selection-end-column="58" />
+              <folding>
+                <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tableau.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tableau.html">
+      <file leaf-file-name="USOil.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/USOil.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="41.96154" vertical-offset="1091" max-vertical-offset="1819">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="-23.961538" vertical-offset="2182" max-vertical-offset="2992">
+              <caret line="165" column="160" selection-start-line="165" selection-start-column="160" selection-end-line="165" selection-end-column="160" />
+              <folding>
+                <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="US30.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/US30.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-23.961538" vertical-offset="2182" max-vertical-offset="2992">
+              <caret line="165" column="159" selection-start-line="165" selection-start-column="159" selection-end-line="165" selection-end-column="159" />
+              <folding>
+                <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SPX500.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SPX500.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-23.961538" vertical-offset="2182" max-vertical-offset="2992">
+              <caret line="165" column="161" selection-start-line="165" selection-start-column="161" selection-end-line="165" selection-end-column="161" />
+              <folding>
+                <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -162,25 +208,36 @@
         <option value="$PROJECT_DIR$/test.php" />
         <option value="$PROJECT_DIR$/prov.php" />
         <option value="$PROJECT_DIR$/class_charger.php" />
+        <option value="$PROJECT_DIR$/GPB_CHF.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/AUD_JPY.php" />
+        <option value="$PROJECT_DIR$/AUD_USD.php" />
+        <option value="$PROJECT_DIR$/COPCOL.html" />
         <option value="$PROJECT_DIR$/CAD_JPY.php" />
         <option value="$PROJECT_DIR$/CHF_JPY.php" />
-        <option value="$PROJECT_DIR$/AUD_USD.php" />
         <option value="$PROJECT_DIR$/EUR_AUD.php" />
         <option value="$PROJECT_DIR$/EUR_CAD.php" />
         <option value="$PROJECT_DIR$/EUR_USD.php" />
         <option value="$PROJECT_DIR$/EUR_CHF.php" />
         <option value="$PROJECT_DIR$/EUR_GBP.php" />
-        <option value="$PROJECT_DIR$/EUR_JPY.php" />
-        <option value="$PROJECT_DIR$/GPB_CHF.php" />
         <option value="$PROJECT_DIR$/GPB_JPY.php" />
-        <option value="$PROJECT_DIR$/GPB_USD.php" />
         <option value="$PROJECT_DIR$/NZD_USD.php" />
+        <option value="$PROJECT_DIR$/NZD_CAD.php" />
         <option value="$PROJECT_DIR$/USD_CAD.php" />
         <option value="$PROJECT_DIR$/USD_CHF.php" />
         <option value="$PROJECT_DIR$/USD_JPY.php" />
-        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/XAU_USD.php" />
+        <option value="$PROJECT_DIR$/GER30.php" />
+        <option value="$PROJECT_DIR$/NAS100.php" />
+        <option value="$PROJECT_DIR$/SPX500.php" />
+        <option value="$PROJECT_DIR$/US30.php" />
+        <option value="$PROJECT_DIR$/USOil.php" />
+        <option value="$PROJECT_DIR$/UKOil.php" />
+        <option value="$PROJECT_DIR$/EUR_JPY.php" />
+        <option value="$PROJECT_DIR$/GPB_USD.php" />
+        <option value="$PROJECT_DIR$/GBP_CHF.php" />
+        <option value="$PROJECT_DIR$/GBP_JPY.php" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/AUD_JPY.php" />
       </list>
     </option>
   </component>
@@ -217,6 +274,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -237,7 +295,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -276,15 +333,15 @@
       <BehatRunner />
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="b4364ecd-1b65-4213-90b3-436f20f4b486" server_name="local">
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
       <tasks />
       <pass-parent-env-vars>false</pass-parent-env-vars>
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="b4364ecd-1b65-4213-90b3-436f20f4b486" server_name="local">
       <method />
     </configuration>
     <list size="0" />
@@ -335,27 +392,27 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32939634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992327" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969153" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29241645" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.114249036" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22988506" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10911425" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992327" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -382,11 +439,39 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/AUD_USD.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="255">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CAD_JPY.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="255">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tableau.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1091" max-vertical-offset="1819">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/COPCOL.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
@@ -399,7 +484,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="272">
           <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -407,7 +494,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="3315">
           <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -437,13 +526,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="391">
           <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PHPExcel_1.8.0_doc/Documentation/Examples/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="935">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -484,38 +566,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PHPExcel_1.8.0_doc/Examples/01simple.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2376374" vertical-offset="0" max-vertical-offset="1700">
-          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PHPExcel_1.8.0_doc/Documentation/Examples/Calculations/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.281203" vertical-offset="0" max-vertical-offset="952">
-          <caret line="11" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PHPExcel/Cell/DataType.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="1768">
           <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PHPExcel_1.8.0_doc/Examples/02types.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.3076923" vertical-offset="2142" max-vertical-offset="2805">
-          <caret line="152" column="19" selection-start-line="152" selection-start-column="19" selection-end-line="152" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PHPExcel_1.8.0_doc/Documentation/Examples/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="935">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -545,37 +599,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="483">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test01.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="100.0" vertical-offset="2617" max-vertical-offset="3332">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AUD_USD.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="255">
-          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CAD_JPY.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="255">
-          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tableau.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="41.96154" vertical-offset="1091" max-vertical-offset="1819">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1091" max-vertical-offset="1819">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -583,7 +612,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="43.153847" vertical-offset="1581" max-vertical-offset="3315">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1581" max-vertical-offset="3315">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="176" selection-end-column="1" />
           <folding />
         </state>
@@ -597,38 +626,266 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="255">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PHPExcel/Style/NumberFormat.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.34468085" vertical-offset="6472" max-vertical-offset="11781">
           <caret line="419" column="19" selection-start-line="419" selection-start-column="19" selection-end-line="419" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AUD_JPY.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.52587414" vertical-offset="1137" max-vertical-offset="3009">
-          <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+        <state vertical-scroll-proportion="-17.0" vertical-offset="2312" max-vertical-offset="3009">
+          <caret line="162" column="164" selection-start-line="162" selection-start-column="6" selection-end-line="162" selection-end-column="164" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COPCOL.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="1258">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CAD_JPY.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.653847" vertical-offset="2199" max-vertical-offset="2975">
+          <caret line="164" column="169" selection-start-line="164" selection-start-column="169" selection-end-line="164" selection-end-column="169" />
           <folding>
             <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1466257600262" expanded="true" signature="2573:2640" placeholder="..." />
-            <marker date="1466257600262" expanded="true" signature="2787:2858" placeholder="..." />
-            <marker date="1466257600262" expanded="true" signature="3005:3075" placeholder="..." />
-            <marker date="1466257600262" expanded="true" signature="3225:3298" placeholder="..." />
-            <marker date="1466257600262" expanded="true" signature="3640:3717" placeholder="..." />
-            <marker date="1466257600262" expanded="true" signature="3861:3924" placeholder="..." />
-            <marker date="1466257600262" expanded="true" signature="4087:4145" placeholder="..." />
-            <marker date="1466257600262" expanded="true" signature="4308:4373" placeholder="..." />
-            <marker date="1466257600262" expanded="true" signature="4545:4605" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AUD_USD.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.7307693" vertical-offset="2267" max-vertical-offset="2975">
+          <caret line="136" column="19" selection-start-line="0" selection-start-column="0" selection-end-line="169" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CHF_JPY.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.653847" vertical-offset="2199" max-vertical-offset="2975">
+          <caret line="164" column="169" selection-start-line="164" selection-start-column="169" selection-end-line="164" selection-end-column="169" />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EUR_AUD.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.653847" vertical-offset="2199" max-vertical-offset="2975">
+          <caret line="164" column="169" selection-start-line="164" selection-start-column="169" selection-end-line="164" selection-end-column="169" />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EUR_USD.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.346153" vertical-offset="2233" max-vertical-offset="2975">
+          <caret line="164" column="169" selection-start-line="164" selection-start-column="169" selection-end-line="164" selection-end-column="169" />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EUR_CHF.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.6153846" vertical-offset="2233" max-vertical-offset="2975">
+          <caret line="143" column="30" selection-start-line="143" selection-start-column="30" selection-end-line="143" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EUR_CAD.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.538462" vertical-offset="2233" max-vertical-offset="2975">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NZD_USD.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.0" vertical-offset="2233" max-vertical-offset="2992">
+          <caret line="165" column="167" selection-start-line="165" selection-start-column="167" selection-end-line="165" selection-end-column="167" />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NZD_CAD.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.5" vertical-offset="2216" max-vertical-offset="2992">
+          <caret line="151" column="58" selection-start-line="151" selection-start-column="58" selection-end-line="151" selection-end-column="58" />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/USD_CAD.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.807692" vertical-offset="2212" max-vertical-offset="2992">
+          <caret line="165" column="167" selection-start-line="165" selection-start-column="167" selection-end-line="165" selection-end-column="167" />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/USD_CHF.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.807692" vertical-offset="2212" max-vertical-offset="2992">
+          <caret line="165" column="167" selection-start-line="165" selection-start-column="167" selection-end-line="165" selection-end-column="167" />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/USD_JPY.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.307692" vertical-offset="2182" max-vertical-offset="2975">
+          <caret line="164" column="164" selection-start-line="164" selection-start-column="164" selection-end-line="164" selection-end-column="164" />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XAU_USD.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.153847" vertical-offset="2212" max-vertical-offset="2975">
+          <caret line="164" column="164" selection-start-line="164" selection-start-column="164" selection-end-line="164" selection-end-column="164" />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GER30.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.961538" vertical-offset="2182" max-vertical-offset="2992">
+          <caret line="165" column="160" selection-start-line="165" selection-start-column="160" selection-end-line="165" selection-end-column="160" />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAS100.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.961538" vertical-offset="2182" max-vertical-offset="2992">
+          <caret line="165" column="161" selection-start-line="165" selection-start-column="161" selection-end-line="165" selection-end-column="161" />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPX500.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.961538" vertical-offset="2182" max-vertical-offset="2992">
+          <caret line="165" column="161" selection-start-line="165" selection-start-column="161" selection-end-line="165" selection-end-column="161" />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/US30.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.961538" vertical-offset="2182" max-vertical-offset="2992">
+          <caret line="165" column="159" selection-start-line="165" selection-start-column="159" selection-end-line="165" selection-end-column="159" />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/USOil.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.961538" vertical-offset="2182" max-vertical-offset="2992">
+          <caret line="165" column="160" selection-start-line="165" selection-start-column="160" selection-end-line="165" selection-end-column="160" />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EUR_JPY.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-25.423077" vertical-offset="2212" max-vertical-offset="2992">
+          <caret line="169" column="7" selection-start-line="169" selection-start-column="7" selection-end-line="169" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GBP_CHF.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.384615" vertical-offset="2199" max-vertical-offset="2992">
+          <caret line="159" column="9" selection-start-line="159" selection-start-column="9" selection-end-line="159" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GBP_JPY.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.076923" vertical-offset="2233" max-vertical-offset="2992">
+          <caret line="159" column="9" selection-start-line="159" selection-start-column="9" selection-end-line="159" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GBP_USD.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.26923" vertical-offset="2280" max-vertical-offset="2975">
+          <caret line="159" column="9" selection-start-line="159" selection-start-column="9" selection-end-line="159" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UKOil.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.115385" vertical-offset="2182" max-vertical-offset="2992">
+          <caret line="153" column="58" selection-start-line="153" selection-start-column="58" selection-end-line="153" selection-end-column="58" />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EUR_GBP.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.23077" vertical-offset="2080" max-vertical-offset="2975">
+          <caret line="164" column="169" selection-start-line="164" selection-start-column="169" selection-end-line="164" selection-end-column="169" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6723164" vertical-offset="0" max-vertical-offset="708">
+          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>

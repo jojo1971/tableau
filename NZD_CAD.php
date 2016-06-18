@@ -157,12 +157,13 @@ ${'sizeDown_' . $r . '_m5'} = substr(${'tab_' . $r . '_m5'}[20], 10, 2) . '%';
 </table>
 <?php
 }
-remp('CHF_JPY','https://gridsightfeed.dailyfx.com/GSRemoteServlet?action=dashboard&symbol=CHF%2FJPY&lettersize=500&callback=jQuery2100021388782184894595_1466166807603&_=1466166809230',
-    'https://gridsightfeed.dailyfx.com/GSRemoteServlet?action=dashboard&symbol=CHF%2FJPY&lettersize=1000&callback=jQuery2100021388782184894595_1466166807603&_=1466166809578',
-    'https://gridsightfeed.dailyfx.com/GSRemoteServlet?action=dashboard&symbol=CHF%2FJPY&lettersize=2000&callback=jQuery2100021388782184894595_1466166807603&_=1466166809638',
-    'https://gridsightfeed.dailyfx.com/GSRemoteServlet?action=gix&symbol=CHF%2FJPY&lettersize=500&callback=jQuery2100021388782184894595_1466166807603&_=1466166809694',
-    'https://gridsightfeed.dailyfx.com/GSRemoteServlet?action=gix&symbol=CHF%2FJPY&lettersize=1000&callback=jQuery2100021388782184894595_1466166807603&_=1466166809772',
-    'https://gridsightfeed.dailyfx.com/GSRemoteServlet?action=gix&symbol=CHF%2FJPY&lettersize=2000&callback=jQuery2100021388782184894595_1466166807603&_=1466166809826');
+remp('NZD_CAD',
+    'https://gridsightfeed.dailyfx.com/GSRemoteServlet?action=dashboard&symbol=USD%2FCAD&lettersize=500&callback=jQuery21005046673302693072_1466269150447&_=1466269164967',
+    'https://gridsightfeed.dailyfx.com/GSRemoteServlet?action=dashboard&symbol=USD%2FCAD&lettersize=1000&callback=jQuery21005046673302693072_1466269150447&_=1466269165237',
+    'https://gridsightfeed.dailyfx.com/GSRemoteServlet?action=dashboard&symbol=USD%2FCAD&lettersize=2000&callback=jQuery21005046673302693072_1466269150447&_=1466269165363',
+    'https://gridsightfeed.dailyfx.com/GSRemoteServlet?action=gix&symbol=USD%2FCAD&lettersize=500&callback=jQuery21005046673302693072_1466269150447&_=1466269164963',
+    'https://gridsightfeed.dailyfx.com/GSRemoteServlet?action=gix&symbol=USD%2FCAD&lettersize=1000&callback=jQuery21005046673302693072_1466269150447&_=1466269165233',
+    'https://gridsightfeed.dailyfx.com/GSRemoteServlet?action=gix&symbol=USD%2FCAD&lettersize=2000&callback=jQuery21005046673302693072_1466269150447&_=1466269165359');
 
 ?>
 
